@@ -1,2 +1,3 @@
 # -
 以嘉立创开源工程为基础的练习，旨在独立完成一个单片机项目
+https://oshwhub.com/huanyi0/simple-oscilloscope
