@@ -3,6 +3,6 @@
 [https://oshwhub.com/huanyi0/simple-oscilloscope](https://oshwhub.com/course-examples/yi-qi-yi-biao-jian-yi-shu-zi-shi-bo-qi-she-ji-cha-jian-ban)  
 目标暂定为复现  
 
-已完成：
+已完成：构建git项目基本框架
 
-待解决：构建git项目基本框架
+待解决：确定购买物料，今晚画完PCB板并下单
